@@ -13,6 +13,5 @@ public class Main {
         zoo.ajouterAnimal(chat);
         zoo.ajouterAnimal(oiseau);
         zoo.faireParler();
-
     }
 }
